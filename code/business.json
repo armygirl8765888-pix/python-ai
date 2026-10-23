@@ -1,0 +1,15 @@
+{
+  "name": "Sweet Crumbs",
+  "type": "Bakery",
+  "city": "Lahore",
+  "hours": "9 AM to 10 PM, every day",
+  "delivery": "Available in selected areas of Lahore",
+  "delivery_fee": 150,
+  "currency": "PKR",
+  "prices": {
+    "chocolate cake": 1500,
+    "cupcake": 250,
+    "brownie": 300,
+    "donut": 200
+  }
+}
