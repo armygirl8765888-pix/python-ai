@@ -1,7 +1,7 @@
 [project]
 name = "python-ai"
 version = "0.1.0"
-description = "Add your description here"
+description = "Python for AI learning projects"
 readme = "README.md"
 authors = [
     { name = "Faiza", email = "armygirl8765888@gmail.com" }
@@ -19,18 +19,3 @@ dependencies = [
 dev = [
     "ipykernel>=7.4.0",
 ]
-Module 2 Checkpoint 1: AI Content Studio
-
-An AI-powered content studio for Sweet Crumbs bakery in Lahore. It creates menu descriptions in batches, streams social media posts in different tones, answers prices directly from business data, and chats with customers using conversation memory.
-
-How to Run
-
-uv run code/project_m2_content_studio.py
-
-Screenshot
-
-"AI Content Studio session" (docs/project-m2-cp1-run.png)
-
-Business Value
-
-This studio saves the owner time by generating several product descriptions and social media posts in one session, while dictionary-based price lookups provide accurate prices without spending AI tokens.
