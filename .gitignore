@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+.venv/
+__pycache__/
+*.pyc
+
+code/chat_history.json
+code/errors.log
+code/transcript.txt

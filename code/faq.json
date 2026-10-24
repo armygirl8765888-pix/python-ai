@@ -1,0 +1,14 @@
+{
+  "business_name": "Sweet Crumbs",
+  "business_type": "Bakery",
+  "city": "Lahore",
+  "opening_hours": "Monday to Saturday, 9 AM to 9 PM",
+  "delivery": "Free delivery for orders over 3000 PKR",
+  "payment_methods": ["Cash", "Bank transfer"],
+  "prices": {
+    "Chocolate Cake": 1800,
+    "Vanilla Cake": 1200,
+    "Cupcake": 250,
+    "Brownie": 300
+  }
+}
